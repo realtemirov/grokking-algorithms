@@ -1,4 +1,4 @@
-## In this chapter (Bu qismda) 
+## Introduction to Algorithms
 
  - Siz kitobning qolgan qismi uchun poydevor olasiz.
 

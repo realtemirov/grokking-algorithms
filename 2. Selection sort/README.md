@@ -1,4 +1,4 @@
-## Ushbu bobda
+## Selection sort
 
 * Massivlar va bog'langan ro'yxatlar haqida ma'lumotga ega bo'lasiz -- ikkita eng asosiy ma'lumotlar tuzilmalari. Ular mutlaqo hamma joyda qo'llaniladi. Siz allaqachon 1-bobda massivlardan foydalangansiz va ularni ushbu kitobning deyarli har bir bobida ishlatasiz. Massivlar hal qiluvchi mavzu, shuning uchun e'tibor bering! Ammo ba'zida massiv o'rniga bog'langan ro'yxat(linked list) ni ishlatish yaxshiroqdir. Ushbu bobda ikkalasining ham ijobiy va salbiy tomonlari tushuntiriladi, shunda siz qaysi biri sizning algoritmingizga mos kelishini hal qilishingiz mumkin.
 
