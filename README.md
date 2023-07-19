@@ -33,3 +33,12 @@ coverY: -65
   * [Deletions](2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#deletions)
 * [Selection sort](2.%20Selection%20sort/3.%20Selection%20sort.md)
 * [Recap](2.%20Selection%20sort/4.%20Recap.md)
+
+## 3. Recursion
+
+* [Recursion](./3.%20Recursion/1.%20Recursion.md)
+* [Base case and recursive case](./3.%20Recursion/2.%20Base%20case%20and%20recursive%20case.md)
+* [The stack](./3.%20Recursion/3.%20The%20stack.md)
+  * [The call stack](./3.%20Recursion/3.%20The%20stack.md#the-call-stack)
+  * [The call stack with recursion](./3.%20Recursion/3.%20The%20stack.md#the-call-stack-with-recursion))
+* [Recap](./3.%20Recursion/4.%20Recap.md)

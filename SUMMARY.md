@@ -11,3 +11,8 @@
   * [Arrays and linked lists](<2. Selection sort/2. Arrays and linked lists.md>)
   * [Selection sort](<2. Selection sort/3. Selection sort.md>)
   * [Recap](<2. Selection sort/4. Recap.md>)
+* [Recursion](/3.%20Recursion/README.md)
+  * [Recursion](<3. Recursion/1. Recursion.md>)
+  * [Base case and recursive case](<3. Recursion/2. Base case and recursive case.md>)
+  * [The stack](<3. Recursion/3. The stack.md>)
+  * [Recap](<3. Recursion/4. Recap.md>)
