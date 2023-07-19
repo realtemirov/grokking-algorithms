@@ -26,10 +26,10 @@ coverY: -65
 
 * [How memory works](./2.%20Selection%20sort/1.%20How%20memory%20works.md)
 * [Arrays and linked lists](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md)
-  * [Linked lists](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#ainked-lists)
+  * [Linked lists](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#linked-lists)
   * [Arrays](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#arrays)
-  * [Terminology](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#Terminology)
-  * [Inserting into the middle of a list](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#anserting-into-the-middle-of-a-list)
+  * [Terminology](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#terminology)
+  * [Inserting into the middle of a list](./2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#inserting-into-the-middle-of-a-list)
   * [Deletions](2.%20Selection%20sort/2.%20Arrays%20and%20linked%20lists.md#deletions)
 * [Selection sort](2.%20Selection%20sort/3.%20Selection%20sort.md)
 * [Recap](2.%20Selection%20sort/4.%20Recap.md)
