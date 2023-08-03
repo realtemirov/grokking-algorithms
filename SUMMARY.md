@@ -16,3 +16,8 @@
   * [Base case and recursive case](<3. Recursion/2. Base case and recursive case.md>)
   * [The stack](<3. Recursion/3. The stack.md>)
   * [Recap](<3. Recursion/4. Recap.md>)
+* [Quicksort](3.-recursion-1/README.md)
+  * [Divide & conquer](3.-recursion-1/1.-recursion.md)
+  * [Quicksort](3.-recursion-1/2.-base-case-and-recursive-case.md)
+  * [Big O notation revisited](3.-recursion-1/3.-the-stack.md)
+  * [Recap](3.-recursion-1/4.-recap.md)

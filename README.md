@@ -42,3 +42,12 @@ coverY: -65
   * [The call stack](<3. Recursion/3. The stack.md#the-call-stack>)
   * [The call stack with recursion](<3. Recursion/3. The stack.md#the-call-stack-with-recursion>)
 * [Recap](<3. Recursion/4. Recap.md>)
+
+## 4. Quicksort
+
+* [Divide & conquer](3.-recursion-1/1.-recursion.md)
+* [Quicksort](3.-recursion-1/)
+* [Big O notation revisited](3.-recursion-1/3.-the-stack.md)
+  * [Merge sort vs. quicksort](3.-recursion-1/3.-the-stack.md#merge-sort-vs.-quicksort)
+  * [Average case vs. worst case](3.-recursion-1/3.-the-stack.md#average-case-vs.-worst-case)
+* [Recap](3.-recursion-1/4.-recap.md)
