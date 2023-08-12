@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1570648751440-2de46c45bfbc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTE4NDc3NTl8&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Hash tables
 
 • Siz eng foydali asosiy ma'lumotlar tuzilmalaridan biri bo'lgan xesh-jadvallar haqida bilib olasiz. Xesh jadvallari ko'p foydalanishga ega; bu bob umumiy foydalanish holatlarini qamrab oladi.
@@ -22,8 +42,7 @@ Sizning do'stingiz Meggi kitob qanchalik katta bo'lishidan qat'i nazar, har qand
 
 ![Maggie in Big O](image-4.png)
 
-Qanday ajoyib inson! Qanday qilib "Maggie" ni olish mumkin?
-Keling, ma'lumotlar tuzilmasi shlyapalarini kiyaylik. Siz hozirgacha ikkita ma'lumotlar tuzilmasini bilasiz: massivlar va ro'yxatlar (men steklar haqida gapirmayman, chunki siz stekdagi biror narsani "qidira olmaysiz"). Siz ushbu kitobni massiv sifatida amalga oshirishingiz mumkin.
+Qanday ajoyib inson! Qanday qilib "Maggie" ni olish mumkin? Keling, ma'lumotlar tuzilmasi shlyapalarini kiyaylik. Siz hozirgacha ikkita ma'lumotlar tuzilmasini bilasiz: massivlar va ro'yxatlar (men steklar haqida gapirmayman, chunki siz stekdagi biror narsani "qidira olmaysiz"). Siz ushbu kitobni massiv sifatida amalga oshirishingiz mumkin.
 
 ![array](image-5.png)
 
