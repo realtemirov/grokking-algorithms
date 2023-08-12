@@ -51,3 +51,17 @@ coverY: -65
   * [Merge sort vs. quicksort](<4. Quicksort/3. Big O notation revisited.md#merge-sort-vs.-quicksort>)
   * [Average case vs. worst case](<4. Quicksort/3. Big O notation revisited.md#average-case-vs.-worst-case>)
 * [Recap](<4. Quicksort/4. Recap.md>)
+
+## 5. Hash tables
+
+* [Hash functions](<5. Hash tables/1. Hash functions.md>)
+* [Use cases](<5. Hash tables/2. Use cases.md>)
+  * [Using hash tables for lookups](<5. Hash tables/2. Use cases.md/#using-hash-tables-for-lookups>)
+  * [Preventing duplicate entries](<5. Hash tables/2. Use cases.md/#preventing-duplicate-entries>)
+  * [Using hash tables as a cache](<5. Hash tables/2. Use cases.md/#using-hash-tables-as-a-cache>)
+  * [Recap](<5. Hash tables/2. Use cases.md/#recap>)
+* [Collisions](<5. Hash tables/3. Collisions.md>)
+* [Performance](<5. Hash tables/4. Performance.md>)
+  * [Load factor](<5. Hash tables/4. Performance.md#load-factor>)
+  * [A good hash function](<5. Hash tables/4. Performance.md#a-good-hash-function>)
+* [Recap](<5. Hash tables/5. Recap.md>)
