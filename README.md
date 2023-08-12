@@ -45,9 +45,9 @@ coverY: -65
 
 ## 4. Quicksort
 
-* [Divide & conquer](3.-recursion-1/1.-recursion.md)
-* [Quicksort](3.-recursion-1/)
-* [Big O notation revisited](3.-recursion-1/3.-the-stack.md)
-  * [Merge sort vs. quicksort](3.-recursion-1/3.-the-stack.md#merge-sort-vs.-quicksort)
-  * [Average case vs. worst case](3.-recursion-1/3.-the-stack.md#average-case-vs.-worst-case)
-* [Recap](3.-recursion-1/4.-recap.md)
+* [Divide & conquer](<4. Quicksort/1. Divide & conquer.md>)
+* [Quicksort](<4. Quicksort/2. Quicksort.md>)
+* [Big O notation revisited](<4. Quicksort/3. Big O notation revisited.md>)
+  * [Merge sort vs. quicksort](<4. Quicksort/3. Big O notation revisited.md#merge-sort-vs.-quicksort>)
+  * [Average case vs. worst case](<4. Quicksort/3. Big O notation revisited.md#average-case-vs.-worst-case>)
+* [Recap](<4. Quicksort/4. Recap.md>)
