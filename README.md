@@ -65,3 +65,15 @@ coverY: -65
   * [Load factor](<5. Hash tables/4. Performance.md#load-factor>)
   * [A good hash function](<5. Hash tables/4. Performance.md#a-good-hash-function>)
 * [Recap](<5. Hash tables/5. Recap.md>)
+
+## 5. Breadth-first search
+
+* [Introduction to graph](<6. Breadth-first search/1. Introduction to graph.md>)
+* [What is a graph](<6. Breadth-first search/2. What is a graph.md>)
+* [Breadth-first search](<6. Breadth-first search/3. Breadth-first search.md>)
+  * [Finding the shortes path](<6. Breadth-first search/3. Breadth-first search.md#finding-the-shortes-path>)
+  * [Queues](<6. Breadth-first search/3. Breadth-first search.md#queues>)
+* [Implementing the graph](<6. Breadth-first search/4. Implementing the graph.md>)
+* [Implementing the algorithm](<6. Breadth-first search/5. Implementing the algorithm.md>)
+  * [Running time](<6. Breadth-first search/5. Implementing the algorithm.md#running-time>)
+* [Recap](<6. Breadth-first search/6. Recap.md>)
