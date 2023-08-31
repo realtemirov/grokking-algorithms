@@ -66,7 +66,7 @@ coverY: -65
   * [A good hash function](<5. Hash tables/4. Performance.md#a-good-hash-function>)
 * [Recap](<5. Hash tables/5. Recap.md>)
 
-## 5. Breadth-first search
+## 6. Breadth-first search
 
 * [Introduction to graph](<6. Breadth-first search/1. Introduction to graph.md>)
 * [What is a graph](<6. Breadth-first search/2. What is a graph.md>)
@@ -77,3 +77,12 @@ coverY: -65
 * [Implementing the algorithm](<6. Breadth-first search/5. Implementing the algorithm.md>)
   * [Running time](<6. Breadth-first search/5. Implementing the algorithm.md#running-time>)
 * [Recap](<6. Breadth-first search/6. Recap.md>)
+
+## 7. Dijkstra's algorithm
+
+* [Working with Dijkstra's algorithm](<7. Dijkstra's algorithm/1. Working with Dijkstra's algorithm.md>)
+* [Terminology](<7. Dijkstra's algorithm/2. Terminology.md>)
+* [Trading for a piano](<7. Dijkstra's algorithm/3. Trading for a piano.md>)
+* [Negative-weight edges](<7. Dijkstra's algorithm/4. Negative-weight edges.md>)
+* [Implementation](<7. Dijkstra's algorithm/5. Implementation.md>)
+* [Recap](<7. Dijkstra's algorithm/6. Recap.md>)
