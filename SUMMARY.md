@@ -34,7 +34,7 @@
   * [Implementing the graph](<6. Breadth-first search/4. Implementing the graph.md>)
   * [Implementing the algorithm](<6. Breadth-first search/5. Implementing the algorithm.md>)
   * [Recap](<6. Breadth-first search/6. Recap.md>)
-* [7. Dijkstra's algorithm](<7. Dijkstra's algorithm/README.md>)
+* [Dijkstra's algorithm](<7. Dijkstra's algorithm/README.md>)
   * [Working with Dijkstra's algorithm](<7. Dijkstra's algorithm/1. Working with Dijkstra's algorithm.md>)
   * [Terminology](<7. Dijkstra's algorithm/2. Terminology.md>)
   * [Trading for a piano](<7. Dijkstra's algorithm/3. Trading for a piano.md>)
