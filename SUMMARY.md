@@ -41,7 +41,7 @@
   * [Negative-weight edges](<7. Dijkstra's algorithm/4. Negative-weight edges.md>)
   * [Implementation](<7. Dijkstra's algorithm/5. Implementation.md>)
   * [Recap](<7. Dijkstra's algorithm/6. Recap.md>)
-* [8. Greedy Algorithms](<8. Greedy Algorithms/README.md>)
+* [Greedy Algorithms](<8. Greedy Algorithms/README.md>)
   * [The classroom scheduling problem](<8. Greedy Algorithms/1. The classroom scheduling problem.md>)
   * [The knapsack problem](<8. Greedy Algorithms/2. The knapsack problem.md>)
   * [The set-covering problem](<8. Greedy Algorithms/3. The set-covering problem.md>)
